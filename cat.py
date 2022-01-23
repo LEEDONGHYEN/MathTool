@@ -12,3 +12,5 @@ yyyyy
 기본
 
 def divide(a, b)
+
+main mod
