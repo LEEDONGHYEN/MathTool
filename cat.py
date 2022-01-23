@@ -12,3 +12,6 @@ yyyyy
 기본
 
 def div_ne
+
+def sya_hello():
+  print("hello")
