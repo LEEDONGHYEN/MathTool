@@ -22,4 +22,5 @@ xxx
 
 def multiply(a,b):
     return a*b
->>>>>>> 72f2034fac4cfe588abf781b5c21f574275874d8
+
+def squalre
