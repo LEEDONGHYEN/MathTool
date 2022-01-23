@@ -14,3 +14,6 @@ yyyyy
 
 dfdf
 xxx
+
+def multiply(a,b):
+    return a*b
