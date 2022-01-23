@@ -11,4 +11,4 @@ yyyyy
 기본
 기본
 
-def divide_pre(a, b)
+def div_ne
